@@ -1,0 +1,2 @@
+# Business-Articles-in-US
+Here, I present one of my project in data analysis which consists in analysing data and show the results on a Dashboard using Excel.  In this project, I analysed Data downloaded from Kaggle and I analyzed and visualized a sales dataset of a compagy. The Excel Dashboard allows me to showcase what happen in the business, and in this way, I can help companies to grow by making good decisions.
